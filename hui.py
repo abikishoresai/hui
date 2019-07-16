@@ -1,0 +1,1 @@
+print(string.count("geeks")) 
